@@ -1,0 +1,7 @@
+{
+    "root": "public/",
+    "logging": {
+      "access": true,
+      "error": "error"
+    }
+  }
